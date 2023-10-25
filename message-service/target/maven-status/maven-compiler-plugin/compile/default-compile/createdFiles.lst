@@ -1,0 +1,10 @@
+com\Digiesaypay\messageservice\repository\MessageRepository.class
+com\Digiesaypay\messageservice\dto\MessageRequest$MessageRequestBuilder.class
+com\Digiesaypay\messageservice\dto\MessageResponse$MessageResponseBuilder.class
+com\Digiesaypay\messageservice\dto\MessageResponse.class
+com\Digiesaypay\messageservice\model\Message.class
+com\Digiesaypay\messageservice\MessageServiceApplication.class
+com\Digiesaypay\messageservice\controller\MessageController.class
+com\Digiesaypay\messageservice\service\MessageService.class
+com\Digiesaypay\messageservice\dto\MessageRequest.class
+com\Digiesaypay\messageservice\model\Message$MessageBuilder.class

@@ -1,0 +1,10 @@
+com\Digiesaypay\userservice\repository\UserRepository.class
+com\Digiesaypay\userservice\dto\UserResponse$UserResponseBuilder.class
+com\Digiesaypay\userservice\dto\UserRequest$UserRequestBuilder.class
+com\Digiesaypay\userservice\controller\UserController.class
+com\Digiesaypay\userservice\model\User.class
+com\Digiesaypay\userservice\service\UserService.class
+com\Digiesaypay\userservice\dto\UserRequest.class
+com\Digiesaypay\userservice\UserServiceApplication.class
+com\Digiesaypay\userservice\model\User$UserBuilder.class
+com\Digiesaypay\userservice\dto\UserResponse.class

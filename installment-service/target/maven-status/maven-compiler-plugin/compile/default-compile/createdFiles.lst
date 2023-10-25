@@ -1,0 +1,10 @@
+com\Digiesaypay\installmentservice\InstallmentServiceApplication.class
+com\Digiesaypay\installmentservice\service\InstallmentService.class
+com\Digiesaypay\installmentservice\model\Installment.class
+com\Digiesaypay\installmentservice\repository\InstallmentRepository.class
+com\Digiesaypay\installmentservice\dto\InstallmentRequest.class
+com\Digiesaypay\installmentservice\model\Installment$InstallmentBuilder.class
+com\Digiesaypay\installmentservice\dto\InstallmentResponse.class
+com\Digiesaypay\installmentservice\dto\InstallmentResponse$InstallmentResponseBuilder.class
+com\Digiesaypay\installmentservice\dto\InstallmentRequest$InstallmentRequestBuilder.class
+com\Digiesaypay\installmentservice\controller\InstallmentController.class

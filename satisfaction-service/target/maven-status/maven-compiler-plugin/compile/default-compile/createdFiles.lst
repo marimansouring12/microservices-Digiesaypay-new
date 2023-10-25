@@ -1,0 +1,10 @@
+com\Digiesaypay\satisfactionservice\repository\SatisfactionRepository.class
+com\Digiesaypay\satisfactionservice\SatisfactionServiceApplication.class
+com\Digiesaypay\satisfactionservice\controller\SatisfactionController.class
+com\Digiesaypay\satisfactionservice\dto\SatisfactionResponse.class
+com\Digiesaypay\satisfactionservice\model\Satisfaction$SatisfactionBuilder.class
+com\Digiesaypay\satisfactionservice\dto\SatisfactionResponse$SatisfactionResponseBuilder.class
+com\Digiesaypay\satisfactionservice\dto\SatisfactionRequest.class
+com\Digiesaypay\satisfactionservice\model\Satisfaction.class
+com\Digiesaypay\satisfactionservice\service\SatisfactionService.class
+com\Digiesaypay\satisfactionservice\dto\SatisfactionRequest$SatisfactionRequestBuilder.class
